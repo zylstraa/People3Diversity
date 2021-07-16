@@ -1,5 +1,8 @@
 ## Data Question 5: People3
 
+*This project was for Nashville Software School to be completed as a group. Due to the collaborative nature of the project, no single notebook is mine. I worked on the data cleaning and graphing for education and age data.*
+
+
 People3 is a benefit corporation that provides diversity and inclusion training, workshops, and inclusion-centered consulting. Benefit corporations are corporate entities which commit to creating public benefits and sustainable value in addition to generating profit. In this project, you will be working toward people3's goal of helping people navigate people differences.
 
 The deliverable for this project is an app built with R Shiny that can be used to help companies see how their employee makeup compares to the broader demographics of their geographic region and can illuminate areas where outreach or improved efforts could be beneficial.
